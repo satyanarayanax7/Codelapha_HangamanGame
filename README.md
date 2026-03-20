@@ -1,7 +1,7 @@
 Hangman Game (Python)
 A simple command-line Hangman Game built using Python. This project demonstrates basic programming concepts such as loops, conditionals, lists, and user input handling.
 
--Features
+ -Features
 
 Random word selection from a predefined list
 Tracks guessed letters
@@ -10,11 +10,11 @@ Limited number of wrong attempts (6 tries)
 Displays progress with underscores (_)
 Win/Lose result at the end
 
--Technologies Used
+ -Technologies Used
 Python 3
 Built-in random module
 
-- How to run the program:
+ - How to run the program:
 Install Python (if not already installed)
 Clone this repository:
 git clone https://github.com/your-username/hangman-game.git
@@ -26,7 +26,7 @@ cd hangman-game
 Run the program:
 python hangman.py
 
-- How to Play
+ - How to Play
 
 The game will display a hidden word using underscores (_ _ _).
 
@@ -35,7 +35,7 @@ If the guess is correct, the letter will be revealed.
 If the guess is wrong, you lose one attempt.
 You have 6 chances to guess the word correctly.
 
--Example :
+ -Example :
 Welcome to Hangman Game!
 
 Word: _ _ _ _ _ _
@@ -44,7 +44,7 @@ Correct guess!
 
 Word: p _ _ _ _ _
  
--Future Improvements
+ -Future Improvements
 
 Add difficulty levels
 Include a larger word database
